@@ -62,7 +62,6 @@ máquinas virtuais.
 - **Host:** Fedora (GNOME)
 - **Virtualização:** GNOME Boxes (QEMU/KVM)
 - **Servidor de testes:** Ubuntu Server em máquina virtual
-- **Regra do laboratório:** tudo isolado, sem dados reais e nunca na rede do trabalho
 
 </details>
 
@@ -70,35 +69,20 @@ máquinas virtuais.
 
 ## ~/em-andamento
 
-| Frente | O que estou fazendo | Status |
-|---|---|---|
+| Frente                      | O que estou fazendo                                                        | Status                                                                                     |
+| --------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | Laboratório de service desk | GLPI sobre Apache, PHP e MariaDB, com chamados de teste e tudo documentado | ![em andamento](https://img.shields.io/badge/status-em_andamento-e2a463?style=flat-square) |
-| Sistema de chamados próprio | API, banco e tela, para entender a viagem completa de um pedido web | ![planejado](https://img.shields.io/badge/status-planejado-79a6e8?style=flat-square) |
-| Estudos contínuos | Redes aplicadas, Active Directory, Microsoft 365 e Linux | ![contínuo](https://img.shields.io/badge/status-cont%C3%ADnuo-4db8c4?style=flat-square) |
-
-<br>
-
-## ~/trilha-de-estudos
-
-```mermaid
-flowchart LR
-    A[Redes] --> B[Linux]
-    B --> C[Active Directory]
-    C --> D[Fundamentos de segurança]
-    D --> E[Laboratórios práticos]
-```
+| Sistema de chamados próprio | API, banco e tela, para entender a viagem completa de um pedido web        | ![planejado](https://img.shields.io/badge/status-planejado-79a6e8?style=flat-square)       |
+| Estudos contínuos           | Redes aplicadas, Active Directory, Microsoft 365 e Linux                   | ![contínuo](https://img.shields.io/badge/status-cont%C3%ADnuo-4db8c4?style=flat-square)    |
 
 <br>
 
 ## ~/projetos
 
-| Projeto | Descrição | Stack |
-|---|---|---|
+| Projeto                         | Descrição                                              | Stack                                     |
+| ------------------------------- | ------------------------------------------------------ | ----------------------------------------- |
 | `laboratorio-glpi-service-desk` | Laboratório de chamados documentado em máquina virtual | Ubuntu Server, Apache, PHP, MariaDB, GLPI |
-| `sistema-de-chamados` | Sistema de chamados próprio | Node, Express, PostgreSQL, React |
-
-<!-- Quando publicar cada projeto, troque o nome por um link:
-     [laboratorio-glpi-service-desk](https://github.com/SEU-USUARIO/laboratorio-glpi-service-desk) -->
+| `sistema-de-chamados`           | Sistema de chamados próprio                            | Node, Express, PostgreSQL, React          |
 
 <br>
 
