@@ -4,6 +4,10 @@
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=E2A463&background=0A0F14&center=true&vCenter=true&width=600&lines=Suporte+t%C3%A9cnico+de+TI;Estudante+de+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo" alt="Texto animado alternando: Suporte técnico de TI, Estudante de Segurança da Informação, Sempre aprendendo algo novo">
+
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Monteiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-monteiro-1768176575475254325/)
 ![Fametro](https://img.shields.io/badge/Fametro-Sistemas_de_Informa%C3%A7%C3%A3o-1f6feb?style=for-the-badge)
 
@@ -26,7 +30,7 @@ máquinas virtuais.
 
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
 ![Fedora](https://img.shields.io/badge/Fedora-0d1117?style=flat-square&logo=fedora&logoColor=51A2DA)
-![Windows 11](https://img.shields.io/badge/Windows-0d1117?style=flat-square&logo=windows11&logoColor=00A4EF)
+![Windows](https://img.shields.io/badge/Windows-0d1117?style=flat-square&labelColor=0d1117&color=00A4EF)
 ![Redes](https://img.shields.io/badge/Redes-0d1117?style=flat-square&labelColor=0d1117&color=4db8c4)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
