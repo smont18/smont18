@@ -4,9 +4,8 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Monteiro-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/lucas-monteiro-1768176575475254325/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Monteiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-monteiro-1768176575475254325/)
 ![Fametro](https://img.shields.io/badge/Fametro-Sistemas_de_Informa%C3%A7%C3%A3o-1f6feb?style=for-the-badge)
-![Manaus](https://img.shields.io/badge/Manaus-AM-4db8c4?style=for-the-badge)
 
 </div>
 
@@ -27,7 +26,7 @@ máquinas virtuais.
 
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
 ![Fedora](https://img.shields.io/badge/Fedora-0d1117?style=flat-square&logo=fedora&logoColor=51A2DA)
-![Windows](https://img.shields.io/badge/Windows-0d1117?style=flat-square&logoColor=white&labelColor=0d1117&color=0078D4)
+![Windows](https://img.shields.io/badge/Windows-0d1117?style=flat-square&logo=windows&logoColor=white)
 ![Redes](https://img.shields.io/badge/Redes-0d1117?style=flat-square&labelColor=0d1117&color=4db8c4)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
@@ -88,7 +87,7 @@ máquinas virtuais.
 
 ## ~/contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/lucas-monteiro-1768176575475254325/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-monteiro-1768176575475254325/)
 
 <br>
 
